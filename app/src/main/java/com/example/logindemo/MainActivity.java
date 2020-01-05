@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button myBTN = findViewById(R.id.button);
+
 
     void LoginClick (View view){
         EditText UsernameET = (EditText) findViewById(R.id.UsernameET);
